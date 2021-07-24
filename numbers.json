@@ -1,0 +1,1077 @@
+{
+  "base": [
+    {
+      "key": "GB",
+      "value": "44",
+      "country": "UK (+44)"
+    },
+    {
+      "key": "US",
+      "value": "1",
+      "country": "USA (+1)"
+    }
+  ],
+  "others": [
+    {
+      "key": "DZ",
+      "value": "213",
+      "country": "Algeria (+213)"
+    },
+    {
+      "key": "AD",
+      "value": "376",
+      "country": "Andorra (+376)"
+    },
+    {
+      "key": "AO",
+      "value": "244",
+      "country": "Angola (+244)"
+    },
+    {
+      "key": "AI",
+      "value": "1264",
+      "country": "Anguilla (+1264)"
+    },
+    {
+      "key": "AG",
+      "value": "1268",
+      "country": "Antigua &amp; Barbuda (+1268)"
+    },
+    {
+      "key": "AR",
+      "value": "54",
+      "country": "Argentina (+54)"
+    },
+    {
+      "key": "AM",
+      "value": "374",
+      "country": "Armenia (+374)"
+    },
+    {
+      "key": "AW",
+      "value": "297",
+      "country": "Aruba (+297)"
+    },
+    {
+      "key": "AU",
+      "value": "61",
+      "country": "Australia (+61)"
+    },
+    {
+      "key": "AT",
+      "value": "43",
+      "country": "Austria (+43)"
+    },
+    {
+      "key": "AZ",
+      "value": "994",
+      "country": "Azerbaijan (+994)"
+    },
+    {
+      "key": "BS",
+      "value": "1242",
+      "country": "Bahamas (+1242)"
+    },
+    {
+      "key": "BH",
+      "value": "973",
+      "country": "Bahrain (+973)"
+    },
+    {
+      "key": "BD",
+      "value": "880",
+      "country": "Bangladesh (+880)"
+    },
+    {
+      "key": "BB",
+      "value": "1246",
+      "country": "Barbados (+1246)"
+    },
+    {
+      "key": "BY",
+      "value": "375",
+      "country": "Belarus (+375)"
+    },
+    {
+      "key": "BE",
+      "value": "32",
+      "country": "Belgium (+32)"
+    },
+    {
+      "key": "BZ",
+      "value": "501",
+      "country": "Belize (+501)"
+    },
+    {
+      "key": "BJ",
+      "value": "229",
+      "country": "Benin (+229)"
+    },
+    {
+      "key": "BM",
+      "value": "1441",
+      "country": "Bermuda (+1441)"
+    },
+    {
+      "key": "BT",
+      "value": "975",
+      "country": "Bhutan (+975)"
+    },
+    {
+      "key": "BO",
+      "value": "591",
+      "country": "Bolivia (+591)"
+    },
+    {
+      "key": "BA",
+      "value": "387",
+      "country": "Bosnia Herzegovina (+387)"
+    },
+    {
+      "key": "BW",
+      "value": "267",
+      "country": "Botswana (+267)"
+    },
+    {
+      "key": "BR",
+      "value": "55",
+      "country": "Brazil (+55)"
+    },
+    {
+      "key": "BN",
+      "value": "673",
+      "country": "Brunei (+673)"
+    },
+    {
+      "key": "BG",
+      "value": "359",
+      "country": "Bulgaria (+359)"
+    },
+    {
+      "key": "BF",
+      "value": "226",
+      "country": "Burkina Faso (+226)"
+    },
+    {
+      "key": "BI",
+      "value": "257",
+      "country": "Burundi (+257)"
+    },
+    {
+      "key": "KH",
+      "value": "855",
+      "country": "Cambodia (+855)"
+    },
+    {
+      "key": "CM",
+      "value": "237",
+      "country": "Cameroon (+237)"
+    },
+    {
+      "key": "CA",
+      "value": "1",
+      "country": "Canada (+1)"
+    },
+    {
+      "key": "CV",
+      "value": "238",
+      "country": "Cape Verde Islands (+238)"
+    },
+    {
+      "key": "KY",
+      "value": "1345",
+      "country": "Cayman Islands (+1345)"
+    },
+    {
+      "key": "CF",
+      "value": "236",
+      "country": "Central African Republic (+236)"
+    },
+    {
+      "key": "CL",
+      "value": "56",
+      "country": "Chile (+56)"
+    },
+    {
+      "key": "CN",
+      "value": "86",
+      "country": "China (+86)"
+    },
+    {
+      "key": "CO",
+      "value": "57",
+      "country": "Colombia (+57)"
+    },
+    {
+      "key": "KM",
+      "value": "269",
+      "country": "Comoros (+269)"
+    },
+    {
+      "key": "CG",
+      "value": "242",
+      "country": "Congo (+242)"
+    },
+    {
+      "key": "CK",
+      "value": "682",
+      "country": "Cook Islands (+682)"
+    },
+    {
+      "key": "CR",
+      "value": "506",
+      "country": "Costa Rica (+506)"
+    },
+    {
+      "key": "HR",
+      "value": "385",
+      "country": "Croatia (+385)"
+    },
+    {
+      "key": "CU",
+      "value": "53",
+      "country": "Cuba (+53)"
+    },
+    {
+      "key": "CY",
+      "value": "90392",
+      "country": "Cyprus North (+90392)"
+    },
+    {
+      "key": "CY",
+      "value": "357",
+      "country": "Cyprus South (+357)"
+    },
+    {
+      "key": "CZ",
+      "value": "42",
+      "country": "Czech Republic (+42)"
+    },
+    {
+      "key": "DK",
+      "value": "45",
+      "country": "Denmark (+45)"
+    },
+    {
+      "key": "DJ",
+      "value": "253",
+      "country": "Djibouti (+253)"
+    },
+    {
+      "key": "DM",
+      "value": "1809",
+      "country": "Dominica (+1809)"
+    },
+    {
+      "key": "DO",
+      "value": "1809",
+      "country": "Dominican Republic (+1809)"
+    },
+    {
+      "key": "EC",
+      "value": "593",
+      "country": "Ecuador (+593)"
+    },
+    {
+      "key": "EG",
+      "value": "20",
+      "country": "Egypt (+20)"
+    },
+    {
+      "key": "SV",
+      "value": "503",
+      "country": "El Salvador (+503)"
+    },
+    {
+      "key": "GQ",
+      "value": "240",
+      "country": "Equatorial Guinea (+240)"
+    },
+    {
+      "key": "ER",
+      "value": "291",
+      "country": "Eritrea (+291)"
+    },
+    {
+      "key": "EE",
+      "value": "372",
+      "country": "Estonia (+372)"
+    },
+    {
+      "key": "ET",
+      "value": "251",
+      "country": "Ethiopia (+251)"
+    },
+    {
+      "key": "FK",
+      "value": "500",
+      "country": "Falkland Islands (+500)"
+    },
+    {
+      "key": "FO",
+      "value": "298",
+      "country": "Faroe Islands (+298)"
+    },
+    {
+      "key": "FJ",
+      "value": "679",
+      "country": "Fiji (+679)"
+    },
+    {
+      "key": "FI",
+      "value": "358",
+      "country": "Finland (+358)"
+    },
+    {
+      "key": "FR",
+      "value": "33",
+      "country": "France (+33)"
+    },
+    {
+      "key": "GF",
+      "value": "594",
+      "country": "French Guiana (+594)"
+    },
+    {
+      "key": "PF",
+      "value": "689",
+      "country": "French Polynesia (+689)"
+    },
+    {
+      "key": "GA",
+      "value": "241",
+      "country": "Gabon (+241)"
+    },
+    {
+      "key": "GM",
+      "value": "220",
+      "country": "Gambia (+220)"
+    },
+    {
+      "key": "GE",
+      "value": "7880",
+      "country": "Georgia (+7880)"
+    },
+    {
+      "key": "DE",
+      "value": "49",
+      "country": "Germany (+49)"
+    },
+    {
+      "key": "GH",
+      "value": "233",
+      "country": "Ghana (+233)"
+    },
+    {
+      "key": "GI",
+      "value": "350",
+      "country": "Gibraltar (+350)"
+    },
+    {
+      "key": "GR",
+      "value": "30",
+      "country": "Greece (+30)"
+    },
+    {
+      "key": "GL",
+      "value": "299",
+      "country": "Greenland (+299)"
+    },
+    {
+      "key": "GD",
+      "value": "1473",
+      "country": "Grenada (+1473)"
+    },
+    {
+      "key": "GP",
+      "value": "590",
+      "country": "Guadeloupe (+590)"
+    },
+    {
+      "key": "GU",
+      "value": "671",
+      "country": "Guam (+671)"
+    },
+    {
+      "key": "GT",
+      "value": "502",
+      "country": "Guatemala (+502)"
+    },
+    {
+      "key": "GN",
+      "value": "224",
+      "country": "Guinea (+224)"
+    },
+    {
+      "key": "GW",
+      "value": "245",
+      "country": "Guinea - Bissau (+245)"
+    },
+    {
+      "key": "GY",
+      "value": "592",
+      "country": "Guyana (+592)"
+    },
+    {
+      "key": "HT",
+      "value": "509",
+      "country": "Haiti (+509)"
+    },
+    {
+      "key": "HN",
+      "value": "504",
+      "country": "Honduras (+504)"
+    },
+    {
+      "key": "HK",
+      "value": "852",
+      "country": "Hong Kong (+852)"
+    },
+    {
+      "key": "HU",
+      "value": "36",
+      "country": "Hungary (+36)"
+    },
+    {
+      "key": "IS",
+      "value": "354",
+      "country": "Iceland (+354)"
+    },
+    {
+      "key": "IN",
+      "value": "91",
+      "country": "India (+91)"
+    },
+    {
+      "key": "ID",
+      "value": "62",
+      "country": "Indonesia (+62)"
+    },
+    {
+      "key": "IR",
+      "value": "98",
+      "country": "Iran (+98)"
+    },
+    {
+      "key": "IQ",
+      "value": "964",
+      "country": "Iraq (+964)"
+    },
+    {
+      "key": "IE",
+      "value": "353",
+      "country": "Ireland (+353)"
+    },
+    {
+      "key": "IL",
+      "value": "972",
+      "country": "Israel (+972)"
+    },
+    {
+      "key": "IT",
+      "value": "39",
+      "country": "Italy (+39)"
+    },
+    {
+      "key": "JM",
+      "value": "1876",
+      "country": "Jamaica (+1876)"
+    },
+    {
+      "key": "JP",
+      "value": "81",
+      "country": "Japan (+81)"
+    },
+    {
+      "key": "JO",
+      "value": "962",
+      "country": "Jordan (+962)"
+    },
+    {
+      "key": "KZ",
+      "value": "7",
+      "country": "Kazakhstan (+7)"
+    },
+    {
+      "key": "KE",
+      "value": "254",
+      "country": "Kenya (+254)"
+    },
+    {
+      "key": "KI",
+      "value": "686",
+      "country": "Kiribati (+686)"
+    },
+    {
+      "key": "KP",
+      "value": "850",
+      "country": "Korea North (+850)"
+    },
+    {
+      "key": "KR",
+      "value": "82",
+      "country": "Korea South (+82)"
+    },
+    {
+      "key": "KW",
+      "value": "965",
+      "country": "Kuwait (+965)"
+    },
+    {
+      "key": "KG",
+      "value": "996",
+      "country": "Kyrgyzstan (+996)"
+    },
+    {
+      "key": "LA",
+      "value": "856",
+      "country": "Laos (+856)"
+    },
+    {
+      "key": "LV",
+      "value": "371",
+      "country": "Latvia (+371)"
+    },
+    {
+      "key": "LB",
+      "value": "961",
+      "country": "Lebanon (+961)"
+    },
+    {
+      "key": "LS",
+      "value": "266",
+      "country": "Lesotho (+266)"
+    },
+    {
+      "key": "LR",
+      "value": "231",
+      "country": "Liberia (+231)"
+    },
+    {
+      "key": "LY",
+      "value": "218",
+      "country": "Libya (+218)"
+    },
+    {
+      "key": "LI",
+      "value": "417",
+      "country": "Liechtenstein (+417)"
+    },
+    {
+      "key": "LT",
+      "value": "370",
+      "country": "Lithuania (+370)"
+    },
+    {
+      "key": "LU",
+      "value": "352",
+      "country": "Luxembourg (+352)"
+    },
+    {
+      "key": "MO",
+      "value": "853",
+      "country": "Macao (+853)"
+    },
+    {
+      "key": "MK",
+      "value": "389",
+      "country": "Macedonia (+389)"
+    },
+    {
+      "key": "MG",
+      "value": "261",
+      "country": "Madagascar (+261)"
+    },
+    {
+      "key": "MW",
+      "value": "265",
+      "country": "Malawi (+265)"
+    },
+    {
+      "key": "MY",
+      "value": "60",
+      "country": "Malaysia (+60)"
+    },
+    {
+      "key": "MV",
+      "value": "960",
+      "country": "Maldives (+960)"
+    },
+    {
+      "key": "ML",
+      "value": "223",
+      "country": "Mali (+223)"
+    },
+    {
+      "key": "MT",
+      "value": "356",
+      "country": "Malta (+356)"
+    },
+    {
+      "key": "MH",
+      "value": "692",
+      "country": "Marshall Islands (+692)"
+    },
+    {
+      "key": "MQ",
+      "value": "596",
+      "country": "Martinique (+596)"
+    },
+    {
+      "key": "MR",
+      "value": "222",
+      "country": "Mauritania (+222)"
+    },
+    {
+      "key": "YT",
+      "value": "269",
+      "country": "Mayotte (+269)"
+    },
+    {
+      "key": "MX",
+      "value": "52",
+      "country": "Mexico (+52)"
+    },
+    {
+      "key": "FM",
+      "value": "691",
+      "country": "Micronesia (+691)"
+    },
+    {
+      "key": "MD",
+      "value": "373",
+      "country": "Moldova (+373)"
+    },
+    {
+      "key": "MC",
+      "value": "377",
+      "country": "Monaco (+377)"
+    },
+    {
+      "key": "MN",
+      "value": "976",
+      "country": "Mongolia (+976)"
+    },
+    {
+      "key": "MS",
+      "value": "1664",
+      "country": "Montserrat (+1664)"
+    },
+    {
+      "key": "MA",
+      "value": "212",
+      "country": "Morocco (+212)"
+    },
+    {
+      "key": "MZ",
+      "value": "258",
+      "country": "Mozambique (+258)"
+    },
+    {
+      "key": "MN",
+      "value": "95",
+      "country": "Myanmar (+95)"
+    },
+    {
+      "key": "NA",
+      "value": "264",
+      "country": "Namibia (+264)"
+    },
+    {
+      "key": "NR",
+      "value": "674",
+      "country": "Nauru (+674)"
+    },
+    {
+      "key": "NP",
+      "value": "977",
+      "country": "Nepal (+977)"
+    },
+    {
+      "key": "NL",
+      "value": "31",
+      "country": "Netherlands (+31)"
+    },
+    {
+      "key": "NC",
+      "value": "687",
+      "country": "New Caledonia (+687)"
+    },
+    {
+      "key": "NZ",
+      "value": "64",
+      "country": "New Zealand (+64)"
+    },
+    {
+      "key": "NI",
+      "value": "505",
+      "country": "Nicaragua (+505)"
+    },
+    {
+      "key": "NE",
+      "value": "227",
+      "country": "Niger (+227)"
+    },
+    {
+      "key": "NG",
+      "value": "234",
+      "country": "Nigeria (+234)"
+    },
+    {
+      "key": "NU",
+      "value": "683",
+      "country": "Niue (+683)"
+    },
+    {
+      "key": "NF",
+      "value": "672",
+      "country": "Norfolk Islands (+672)"
+    },
+    {
+      "key": "NP",
+      "value": "670",
+      "country": "Northern Marianas (+670)"
+    },
+    {
+      "key": "NO",
+      "value": "47",
+      "country": "Norway (+47)"
+    },
+    {
+      "key": "OM",
+      "value": "968",
+      "country": "Oman (+968)"
+    },
+    {
+      "key": "PW",
+      "value": "680",
+      "country": "Palau (+680)"
+    },
+    {
+      "key": "PA",
+      "value": "507",
+      "country": "Panama (+507)"
+    },
+    {
+      "key": "PG",
+      "value": "675",
+      "country": "Papua New Guinea (+675)"
+    },
+    {
+      "key": "PY",
+      "value": "595",
+      "country": "Paraguay (+595)"
+    },
+    {
+      "key": "PE",
+      "value": "51",
+      "country": "Peru (+51)"
+    },
+    {
+      "key": "PH",
+      "value": "63",
+      "country": "Philippines (+63)"
+    },
+    {
+      "key": "PL",
+      "value": "48",
+      "country": "Poland (+48)"
+    },
+    {
+      "key": "PT",
+      "value": "351",
+      "country": "Portugal (+351)"
+    },
+    {
+      "key": "PR",
+      "value": "1787",
+      "country": "Puerto Rico (+1787)"
+    },
+    {
+      "key": "QA",
+      "value": "974",
+      "country": "Qatar (+974)"
+    },
+    {
+      "key": "RE",
+      "value": "262",
+      "country": "Reunion (+262)"
+    },
+    {
+      "key": "RO",
+      "value": "40",
+      "country": "Romania (+40)"
+    },
+    {
+      "key": "RU",
+      "value": "7",
+      "country": "Russia (+7)"
+    },
+    {
+      "key": "RW",
+      "value": "250",
+      "country": "Rwanda (+250)"
+    },
+    {
+      "key": "SM",
+      "value": "378",
+      "country": "San Marino (+378)"
+    },
+    {
+      "key": "ST",
+      "value": "239",
+      "country": "Sao Tome &amp; Principe (+239)"
+    },
+    {
+      "key": "SA",
+      "value": "966",
+      "country": "Saudi Arabia (+966)"
+    },
+    {
+      "key": "SN",
+      "value": "221",
+      "country": "Senegal (+221)"
+    },
+    {
+      "key": "CS",
+      "value": "381",
+      "country": "Serbia (+381)"
+    },
+    {
+      "key": "SC",
+      "value": "248",
+      "country": "Seychelles (+248)"
+    },
+    {
+      "key": "SL",
+      "value": "232",
+      "country": "Sierra Leone (+232)"
+    },
+    {
+      "key": "SG",
+      "value": "65",
+      "country": "Singapore (+65)"
+    },
+    {
+      "key": "SK",
+      "value": "421",
+      "country": "Slovak Republic (+421)"
+    },
+    {
+      "key": "SI",
+      "value": "386",
+      "country": "Slovenia (+386)"
+    },
+    {
+      "key": "SB",
+      "value": "677",
+      "country": "Solomon Islands (+677)"
+    },
+    {
+      "key": "SO",
+      "value": "252",
+      "country": "Somalia (+252)"
+    },
+    {
+      "key": "ZA",
+      "value": "27",
+      "country": "South Africa (+27)"
+    },
+    {
+      "key": "ES",
+      "value": "34",
+      "country": "Spain (+34)"
+    },
+    {
+      "key": "LK",
+      "value": "94",
+      "country": "Sri Lanka (+94)"
+    },
+    {
+      "key": "SH",
+      "value": "290",
+      "country": "St. Helena (+290)"
+    },
+    {
+      "key": "KN",
+      "value": "1869",
+      "country": "St. Kitts (+1869)"
+    },
+    {
+      "key": "SC",
+      "value": "1758",
+      "country": "St. Lucia (+1758)"
+    },
+    {
+      "key": "SD",
+      "value": "249",
+      "country": "Sudan (+249)"
+    },
+    {
+      "key": "SR",
+      "value": "597",
+      "country": "Suriname (+597)"
+    },
+    {
+      "key": "SZ",
+      "value": "268",
+      "country": "Swaziland (+268)"
+    },
+    {
+      "key": "SE",
+      "value": "46",
+      "country": "Sweden (+46)"
+    },
+    {
+      "key": "CH",
+      "value": "41",
+      "country": "Switzerland (+41)"
+    },
+    {
+      "key": "SI",
+      "value": "963",
+      "country": "Syria (+963)"
+    },
+    {
+      "key": "TW",
+      "value": "886",
+      "country": "Taiwan (+886)"
+    },
+    {
+      "key": "TJ",
+      "value": "7",
+      "country": "Tajikstan (+7)"
+    },
+    {
+      "key": "TH",
+      "value": "66",
+      "country": "Thailand (+66)"
+    },
+    {
+      "key": "TG",
+      "value": "228",
+      "country": "Togo (+228)"
+    },
+    {
+      "key": "TO",
+      "value": "676",
+      "country": "Tonga (+676)"
+    },
+    {
+      "key": "TT",
+      "value": "1868",
+      "country": "Trinidad &amp; Tobago (+1868)"
+    },
+    {
+      "key": "TN",
+      "value": "216",
+      "country": "Tunisia (+216)"
+    },
+    {
+      "key": "TR",
+      "value": "90",
+      "country": "Turkey (+90)"
+    },
+    {
+      "key": "TM",
+      "value": "7",
+      "country": "Turkmenistan (+7)"
+    },
+    {
+      "key": "TM",
+      "value": "993",
+      "country": "Turkmenistan (+993)"
+    },
+    {
+      "key": "TC",
+      "value": "1649",
+      "country": "Turks &amp; Caicos Islands (+1649)"
+    },
+    {
+      "key": "TV",
+      "value": "688",
+      "country": "Tuvalu (+688)"
+    },
+    {
+      "key": "UG",
+      "value": "256",
+      "country": "Uganda (+256)"
+    },
+    {
+      "key": "UA",
+      "value": "380",
+      "country": "Ukraine (+380)"
+    },
+    {
+      "key": "AE",
+      "value": "971",
+      "country": "United Arab Emirates (+971)"
+    },
+    {
+      "key": "UY",
+      "value": "598",
+      "country": "Uruguay (+598)"
+    },
+    {
+      "key": "UZ",
+      "value": "7",
+      "country": "Uzbekistan (+7)"
+    },
+    {
+      "key": "VU",
+      "value": "678",
+      "country": "Vanuatu (+678)"
+    },
+    {
+      "key": "VA",
+      "value": "379",
+      "country": "Vatican City (+379)"
+    },
+    {
+      "key": "VE",
+      "value": "58",
+      "country": "Venezuela (+58)"
+    },
+    {
+      "key": "VN",
+      "value": "84",
+      "country": "Vietnam (+84)"
+    },
+    {
+      "key": "VG",
+      "value": "84",
+      "country": "Virgin Islands - British (+1284)"
+    },
+    {
+      "key": "VI",
+      "value": "84",
+      "country": "Virgin Islands - US (+1340)"
+    },
+    {
+      "key": "WF",
+      "value": "681",
+      "country": "Wallis &amp; Futuna (+681)"
+    },
+    {
+      "key": "YE",
+      "value": "969",
+      "country": "Yemen (North)(+969)"
+    },
+    {
+      "key": "YE",
+      "value": "967",
+      "country": "Yemen (South)(+967)"
+    },
+    {
+      "key": "ZM",
+      "value": "260",
+      "country": "Zambia (+260)"
+    },
+    {
+      "key": "ZW",
+      "value": "263",
+      "country": "Zimbabwe (+263)"
+    }
+  ]
+  
+}
